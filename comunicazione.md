@@ -13,7 +13,18 @@ la comunicazione avviene all'interno dei rispettivi ambiti o tra i diversi ambit
 ad esempio: come avviene la comunicazione tra il Consiglio e i Soci Attivi? e tra il Consiglio+Soci Attivi e il Pubblico?
 Ogni comunicazione dovrebbe essere bidirezionale.
 
-Oltre ai canali/strumenti di comunicazione è bene aver definito anche delle modalità e dei linguaggi, oltre che degli strumenti di memoria e realive modalità di accesso.
+Oltre ai canali/strumenti di comunicazione è bene aver definito anche delle modalità e dei linguaggi, oltre che degli strumenti di memoria e relative modalità di accesso.
 Ad esempio c'è un logo ufficiale e dove? dove vengono registrati i verbali delle riunioni? chi gestisce e dove è pubblicato il calendario degli eventi?
 
 Vediamo nei dettagli tutti questi casi:
+
+## Facebook
+
+## Instagram
+
+## WhatsApp
+
+## Mailing List
+
+## Google Group
+
